@@ -29,9 +29,9 @@ No installation is necessary beyond ensuring you have a compatible version of Py
 2. Navigate to the directory containing \`coffee_payer.py\`.
 3. Run the script with Python:
 
-\`\`\`bash
+```bash
 python coffee_payer.py
-\`\`\`
+```
 
 The GUI should launch, displaying the application window.
 
@@ -45,12 +45,12 @@ The GUI should launch, displaying the application window.
 
 To add or remove participants or change their coffee preferences, you'll need to modify the \`coffee_prices\` dictionary within the \`coffee_payer.py\` script directly. Here's the format:
 
-\`\`\`python
+```python
 coffee_prices = {
     'Name': price,  # Example: 'Bob': 6.50
     # Add or remove entries as needed
 }
-\`\`\`
+```
 
 After making your changes, save the file and restart the application.
 
