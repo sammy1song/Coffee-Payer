@@ -57,7 +57,3 @@ After making your changes, save the file and restart the application.
 ## Data Entry
 
 The application automatically tracks payments and calculates totals based on the defined coffee prices. Initial data or changes to the participant list and coffee preferences require manual entry in the script as described above.
-
-## Contributions
-
-While this project was developed for internal use, contributions or suggestions are welcome. Please feel free to fork the repository or submit issues for bugs or feature requests.
